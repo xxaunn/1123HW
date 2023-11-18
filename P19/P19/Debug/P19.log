@@ -1,0 +1,5 @@
+﻿  main.c
+c:\users\xxuann\desktop\程式設計\1125hw\p19\source\main.c(24): warning C4473: 'printf' : 傳遞給格式字串的引數不足
+  c:\users\xxuann\desktop\程式設計\1125hw\p19\source\main.c(24): note: 預留位置及其參數需要 2 個 variadic 引數，但卻提供了 1 個
+  c:\users\xxuann\desktop\程式設計\1125hw\p19\source\main.c(24): note: 缺少 variadic 引數 2 (其為格式字串 '%d' 所需)
+  P19.vcxproj -> C:\Users\xxuann\Desktop\程式設計\1125HW\P19\Debug\P19.exe
